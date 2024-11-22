@@ -1,11 +1,3 @@
-vless://6c59b6e2-4708-4a04-a11c-458b1bbd9651@213.176.127.25:28706?type=tcp&security=reality&pbk=rENtnP1gXvy_IiOUaVxg37wNH_vjSWiCVfx35Q71qg8&fp=random&sni=yahoo.com&sid=b847&spx=%2F#r1-uj0gxuw9
-vless://6c4c9737-ceac-4d21-ba2d-f2946d53acea@213.176.127.25:49194?type=tcp&security=reality&pbk=zXiA4fxNjHI9KAC20oj6sPcwJkoa06v8_VJje6jCJTI&fp=random&sni=ftp.debian.org&sid=758a840dd711&spx=%2F#r2-0p46wivk
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206U2docXlLUDh5VVd1bDhwMU9LbDJpTy9zcnQzYnQ0QWt2elBCVHpiUE5Laz06YTlBaFNTN3BCNDA1TFJJR2liYjg5WElnVVUxbWE4WlZpMjFXeUY2NHBFND0@213.176.127.25:48644?type=tcp#shadow-l1uaxvz0
-socks://akFWWXRSWGNGTjowVWIxS29vRTFl@213.176.127.25:13410#socks
-vless://57f40421-8826-42c8-8e07-dea44f22096c@213.176.127.25:443?type=tcp&security=reality&pbk=EMRwHZA8Fi2bEfvfgwzYx9Qacx34TtlpPKos_AarOys&fp=random&sni=gsmarena.com&sid=9ef26b2c87&spx=%2F#r3-4wexwqox
-vless://f5b961ce-3476-4338-ab63-acc976434176@213.176.127.25:29615?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=game.gameserveryas.ir#v-a0qefw76
-vless://74524afa-d23e-440f-9bea-e21433c52345@213.176.127.25:20869?type=ws&path=%2Fws&host=game.gameserveryas.ir&security=tls&fp=random&alpn=h3%2Ch2%2Chttp%2F1.1&sni=game.gameserveryas.ir#v2-tqgxds5h
-..............................................................
 vless://bf99b98d-65b6-42f0-a683-e5256b1d7f6c@213.176.127.40:13760?type=tcp&security=reality&pbk=ojXhj_rD0v-JjiJdileYLJkIQYiTyEmzQvjwFUwJh1w&fp=random&sni=yahoo.com&sid=4f3460a9&spx=%2Frealy#rr1-2ib3ysay
 vless://4dadfef1-f3c1-4bcd-9f21-516c16ac7906@213.176.127.40:46349?type=tcp&security=reality&pbk=2EKn3HHFkvT_cOcmMQyQMw9EfrcXgz47M0u3KVIqWGI&fp=random&sni=ftp.debian.org&sid=e8cbe82f76a22711&spx=%2Frealyy#rr2-hsgje68m
 vless://2dcd1875-0174-4fda-952c-30e60579bbb7@213.176.127.40:51725?type=tcp&security=reality&pbk=W2TOqqP2KCto64oFwufyNGdMpvLnrza75Jl8MPF2pyk&fp=random&sni=gsmarena.com&sid=16d4&spx=%2Freallyyy#rr3-hldmrzb7
