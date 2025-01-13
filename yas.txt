@@ -1,1 +1,8 @@
 vless://07aedf59-995e-4d1c-8d42-5177b35aafbc@80.240.16.141:443?type=tcp&security=reality&pbk=gkT1YQ_dL8_HMD0mvbHj6OL2-9tfMl1cYUyaWfHJ0BA&fp=random&sni=yahoo.com&sid=343d1eaa771791&spx=%2F#ff-hr2kutg1
+vless://bf99b98d-65b6-42f0-a683-e5256b1d7f6c@213.176.127.40:13760?type=tcp&security=reality&pbk=ojXhj_rD0v-JjiJdileYLJkIQYiTyEmzQvjwFUwJh1w&fp=random&sni=yahoo.com&sid=4f3460a9&spx=%2Frealy#rr1-2ib3ysay
+vless://4dadfef1-f3c1-4bcd-9f21-516c16ac7906@213.176.127.40:46349?type=tcp&security=reality&pbk=2EKn3HHFkvT_cOcmMQyQMw9EfrcXgz47M0u3KVIqWGI&fp=random&sni=ftp.debian.org&sid=e8cbe82f76a22711&spx=%2Frealyy#rr2-hsgje68m
+vless://2dcd1875-0174-4fda-952c-30e60579bbb7@213.176.127.40:51725?type=tcp&security=reality&pbk=W2TOqqP2KCto64oFwufyNGdMpvLnrza75Jl8MPF2pyk&fp=random&sni=gsmarena.com&sid=16d4&spx=%2Freallyyy#rr3-hldmrzb7
+vless://9a743075-90f6-4c80-8f21-aec55245532a@213.176.127.40:25657?type=tcp&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fr.gameserveryas.ir#vv1-m745b1hm
+vless://36234b49-0d16-4f19-98d6-0bae0af86b9d@213.176.127.40:27075?type=ws&path=%2Fgameserveryas.ir12345&host=fr.gameserveryas.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=fr.gameserveryas.ir#vv2-w80mnobd
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bmZEYWNYaWswVTBWUVpvYXJ1MkFEMFhGdEtSMUxvZ05qT2JuV2xXNHNEUT06SGJZSDB0eFUvejFTWGw3ZlRCNUJucWsvdldkUkZqQjEveUVQK0ZkVUlFQT0@213.176.127.40:35086?type=tcp#shadow-rs67rmi6
+vless://ecb987a7-5328-496b-978e-9aed27f28fb6@213.176.127.40:2087?type=splithttp&path=%2Fgame%3D2096&host=fr.gameserveryas.ir&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=fr.gameserveryas.ir#https-ins0ic1a
