@@ -7,3 +7,4 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206bmZEYWNYaWswVTBWUVpvYXJ1MkFEMFhGdEtSMUxvZ05
 vless://ecb987a7-5328-496b-978e-9aed27f28fb6@213.176.127.40:2087?type=splithttp&path=%2Fgame%3D2096&host=grm.gameserversir.ir&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&allowInsecure=1&sni=grm.gameserversir.ir#https-ins0ic1a
 vless://5acfc8b4-cc14-4006-a01d-374f3b702049@213.176.127.40:443?type=xhttp&path=%2Fiman&host=&mode=auto&security=reality&pbk=6E9BJ71rWl2eclDCkXREcTgNQPlutTcum0vzKyCSmlM&fp=chrome&sni=yahoo.com&sid=8ae1c5f59d5c&spx=%2F#r5-8nb9zh31
 vless://b9f76a82-4a89-40fa-b2c2-65656c424fbf@213.176.127.40:8443?type=xhttp&path=%2Fiman&host=&mode=auto&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=grm.gameserversir.ir#v6-6br6k48d
+trojan://cpYAMEpDaM@213.176.127.40:34609?type=ws&path=%2Fgrm&host=grm.gameserversir.ir&security=tls&fp=chrome&alpn=h3%2Ch2%2Chttp%2F1.1&sni=grm.gameserversir.ir#grpc1-gcv3fc80
